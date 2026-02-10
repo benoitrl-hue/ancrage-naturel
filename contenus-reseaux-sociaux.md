@@ -12,15 +12,57 @@
 **Lien script :** [Voir scripts-videos-facebook.md]
 
 ---
-
 #### Mercredi 12 février
 **Plateforme :** Facebook  
-**Type :** Post texte + image  
-**Thème :** [À définir]  
-**Statut :** 📝 À créer  
+**Type :** Post texte (peut ajouter image nature optionnelle)  
+**Thème :** Exercice d'ancrage - Scan corporel express  
+**Statut :** ✅ Créé  
 
-**Idée de contenu :**
+**Contenu :**
 
+Tu scrolls depuis 20 minutes sans savoir pourquoi.
+
+Tu es là, mais tu n'es pas vraiment là.
+Ton corps est devenu un meuble que tu trimbales toute la journée.
+
+Je connais ça.
+
+Voici un exercice de 2 minutes pour revenir habiter ton corps :
+
+LE SCAN CORPOREL EXPRESS
+
+1️⃣ Arrête-toi. Là, maintenant.
+Pose ton téléphone (oui, vraiment).
+
+2️⃣ Porte ton attention sur tes pieds.
+Sens-les toucher le sol.
+Lourds. Ancrés. Présents.
+
+3️⃣ Remonte lentement vers tes chevilles.
+Remarque les sensations. Sans juger.
+Juste observer.
+
+4️⃣ Continue vers tes mollets, tes genoux.
+Prends ton temps. Ce n'est pas une course.
+
+5️⃣ Tes cuisses. Ton bassin.
+Respire dans chaque zone.
+
+6️⃣ Ton ventre. Ta poitrine.
+Sens ta respiration qui monte et descend.
+
+7️⃣ Tes épaules. Ton cou. Ta tête.
+Relâche ce qui peut l'être.
+
+8️⃣ Prends une grande respiration.
+Tu es ici. Maintenant. Dans ton corps.
+
+⏱️ Ça prend 2 minutes.
+Mais ces 2 minutes peuvent changer ta journée.
+
+✨ Essaie maintenant et dis-moi en commentaire comment tu te sens après.
+
+#AncrageNaturel #Hypersensibilité #RenaissanceSouveraine
 
 ---
 
