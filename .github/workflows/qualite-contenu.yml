@@ -1,0 +1,46 @@
+name: Qualité du contenu
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  markdown-lint:
+    name: Linting Markdown
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Vérifier le formatage Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: "**/*.md"
+
+  verification-liens:
+    name: Vérification des liens
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Vérifier les liens dans les fichiers Markdown
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress "**/*.md"
+          fail: true
+
+  orthographe:
+    name: Vérification orthographique (français)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Installer cspell
+        run: npm install -g cspell@latest @cspell/dict-fr-fr
+
+      - name: Activer le dictionnaire français
+        run: cspell link add @cspell/dict-fr-fr
+
+      - name: Vérifier l'orthographe
+        run: cspell "**/*.md"
